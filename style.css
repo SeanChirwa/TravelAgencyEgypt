@@ -666,6 +666,7 @@ body{
   
     header{
       padding:2rem;
+      position: relative;
     }
   
     section{
