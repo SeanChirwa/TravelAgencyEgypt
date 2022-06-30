@@ -160,6 +160,7 @@ body{
 }
 
 .login-form-container.active{ 
+    position: relative;
     z-index: 1000000;   
     top: 0;
   }
@@ -671,7 +672,7 @@ body{
   
     section{
       padding:2rem;
-    }  
+    }
   }
   
   @media (max-width:768px){
